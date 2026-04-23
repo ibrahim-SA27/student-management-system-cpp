@@ -24,6 +24,9 @@ It uses file handling to store student data permanently and provides a simple me
 
 ## 📂 File Used
 - `students.dat` → stores all student data
+- ## 📸 Sample Output
+![Output](output2.png)
+
 
 ## 🎯 Learning Outcomes
 - Understanding file handling in C++
